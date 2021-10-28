@@ -1,1 +1,1 @@
-# ram_is_done_for
+# Don't use it for the sake of your RAM
